@@ -1,5 +1,11 @@
 # ---- Practica 1 - Manejo de discos. ----
 
+-Integrantes-
+- Sebastián Azamar Avilés.
+- Karime Aylen de la Cruz Vargas.
+- Carolina Gonzalez Gonzalez.
+- Martín Granados Reyes.
+
 # 1. Diferencia entra hda, sda, vda.
 
 Los nombres de los discos en Linux están en orden alfabético. Dentro de Linux se pueden encontrar discos como __hda__, el cual es el controlador IDE maestro. Por otra parte, sda es la abreviatura para el controlador de almacenamiento masivo Small Computer System Interface __(SCSI)__, a diferencia de hda que es una unidad __IDE__. Dado que el nombre de los discos esta en orden alfabético sda representa el primer ID SCSI de disco SCSI por direcciones, __sdb__ representa la segunda ID SCSI de disco SCSI. Los números que se encuentran al final de cada __sda__, como __sda1__, __sda2__, etc. representan las particiones del disco por lo que sda1 es la primera partición del disco, sda2 es la segunda partición del disco, y así sucesivamente.
