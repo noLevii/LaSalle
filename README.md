@@ -1,4 +1,4 @@
-# ---- Practica 1 - Manejo de discos. ----
+# Practica 1 - Manejo de discos.
 
 -Integrantes-
 - Sebastián Azamar Avilés.
