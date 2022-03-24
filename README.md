@@ -1,4 +1,4 @@
-# Practica 2 - Introduccion al sistema de archivos.
+# Práctica 2 - Introducción al sistema de archivos.
 
 __Equipo:__ Muppets
 
